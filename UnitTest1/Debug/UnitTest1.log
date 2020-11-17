@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Aquatic\source\repos\lab6.3rec\lab6.3rec\lab6.3rec.cpp(10,9): error C2561: 'create_array': function must return a value
+C:\Users\Aquatic\source\repos\lab6.3rec\lab6.3rec\lab6.3rec.cpp(4): message : see declaration of 'create_array'
